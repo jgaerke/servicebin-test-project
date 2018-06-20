@@ -1,7 +1,7 @@
 openapi: 3.0.0
 # Added by API Auto Mocking Plugin
 servers:
-  - description: SwaggerHub API Auto Mocking
+  - description: SwaggerHub API Auto Mocking2
     url: https://virtserver.swaggerhub.com/cngholdings/jlg-petstore-3.0/1.0.0
 info:
   description: |
