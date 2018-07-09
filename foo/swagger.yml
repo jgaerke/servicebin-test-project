@@ -40,9 +40,9 @@ paths:
       responses:
         '405':
           headers: 
-            'X-Correlation-ID': 
+            X-Correlation-ID:
               schema:
-                type: 'string'
+                type: string
               x-example: '123'
           description: Invalid input
       security:
