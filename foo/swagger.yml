@@ -43,7 +43,7 @@ paths:
             X-Correlation-ID:
               schema:
                 type: string
-              x-example: '123'
+                example: '123'
           description: Invalid input
       security:
         - petstore_auth:
